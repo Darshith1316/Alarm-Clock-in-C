@@ -45,7 +45,7 @@ void setAlarm(int hours, int minutes)
        //Plays .exe with song in it
        int main();
        {
-        system("D:\\Coding\\alaram\\PlaySound.exe");
+        system("add path to the .exe file here");
        }
 
 }
